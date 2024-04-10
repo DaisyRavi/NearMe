@@ -26,8 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 '''
-<html>
-    <head>
+  <html>
+       <head>
         <title> My City</title>
     </head>
     <body>
@@ -52,7 +52,7 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 133158.png>)
+
 
 ![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141518.png>)
 ![alt text](<daisy/mapapp/static/Screenshot 2024-04-10 141753.png>)
